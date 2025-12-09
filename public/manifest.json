@@ -1,0 +1,21 @@
+{
+    "name": "To-Do List",
+    "short_name": "To-Do",
+    "description": "Una aplicacion de lista de tareas simples y efectiva",
+    "start_url": "./",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "$007bff",
+    "icons": [
+        {
+            "src":"/icons/icon192x192.png",
+            "sizes":"192x192",
+            "type":"image/png"
+          },
+          {
+            "src":"/icons/icon512x512.png",
+            "sizes":"512x512",
+            "type":"image/png"
+          }
+    ]
+}
